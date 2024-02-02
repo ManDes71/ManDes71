@@ -17,7 +17,8 @@ Développement d’un modèle de prédiction de la catégorie à partir d’une 
 -  tilisation de réseaux de neurones convolutifs pour la partie image
 - résentation du projet à l'aide de Streamlit 
 Ce projet fil rouge développé lors de ma formation de Data Scientist chez DataScientest en formation continue en 2023 m'a permit d'appliquer une grande partie des enseignements acquis durant cette année 2023.  
-  [Partie Machine Learning](https://github.com/ManDes71/Rakuten_Text_Classification_ML/blob/main/ReadMe.md) pour la partie texte.
+  J'ai mis la [Partie Machine Learning](https://github.com/ManDes71/Rakuten_Text_Classification_ML/blob/main/ReadMe.md) pour la partie texte.
+  Les autres parties suivront ....
 
 <!---
 ManDes71/ManDes71 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
