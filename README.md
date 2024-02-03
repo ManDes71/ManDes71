@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ManDes71
-- 👀 I’m interested in Datascience
+- 👀 I’m interested in Datascience and Deep Learning
 
 
 🧪 𝐏𝐫𝐨𝐣𝐞𝐭 𝐃𝐚𝐭𝐚 𝐒𝐜𝐢𝐞𝐧𝐜𝐞
