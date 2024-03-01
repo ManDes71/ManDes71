@@ -18,7 +18,8 @@ Développement d’un modèle de prédiction de la catégorie à partir d’une 
 - Présentation du projet à l'aide de Streamlit
   
 Ce projet fil rouge développé lors de ma formation de Data Scientist chez DataScientest en formation continue en 2023 m'a permis d'appliquer une grande partie des enseignements acquis durant cette année 2023.  
-  J'ai mis en ligne la [Partie Machine Learning](https://github.com/ManDes71/Rakuten_Text_Classification_ML/blob/main/ReadMe.md) pour la partie texte.  
+  J'ai mis en ligne la [Partie Machine Learning](https://github.com/ManDes71/Rakuten_Text_Classification_ML/blob/main/ReadMe.md) et  
+  la [Partie réseaux de neurones récurrents](https://github.com/ManDes71/Rakuten_Text_Classification_TensorFlow/blob/main/ReadMe.md)pour la partie texte.  
   Les autres parties suivront ....
 
 <!---
