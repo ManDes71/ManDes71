@@ -6,6 +6,8 @@
 
 [Rakuten Data Challenge 2021](https://aventuresdata.com/rakuten/).
 
+[Présentation Streamlit](https://streamlit.aventuresdata.com/rakuten/) 
+
 L'objectif de ce projet était la classification multimodale de 85000 produits (à partir de descriptions et d'images) en 27 catégories.
 Développement d’un modèle de prédiction de la catégorie à partir d’une image ou d’une description.
 
