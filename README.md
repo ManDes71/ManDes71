@@ -1,5 +1,17 @@
-- 👋 Hi, I’m @ManDes71
-- 👀 I’m interested in Datascience and Deep Learning
+# 👋 Bonjour, je suis @ManDes71
+
+- 👀 Passionné par la Data Science, le Deep Learning et désormais le MLOps
+- 📚 Actuellement en formation **MLOps** chez [DataScientest](https://datascientest.com/)
+
+---
+
+## 🧪 Formation MLOps – DataScientest
+
+- [JUIL25-CMLOPS-RAKUTEN](https://github.com/DataScientest-Studio/JUIL25-CMLOPS-RAKUTEN)  
+  Projet en cours dans le cadre de la formation MLOps : mise en place d'une pipeline de classification e-commerce (images + descriptions produits) avec intégration CI/CD, suivi des modèles, et gestion des données avec DVC.
+
+---
+
 
 
 🧪 𝐏𝐫𝐨𝐣𝐞𝐭 𝐃𝐚𝐭𝐚 𝐒𝐜𝐢𝐞𝐧𝐜𝐞
@@ -27,3 +39,5 @@ Ce projet fil rouge développé lors de ma formation de Data Scientist chez Data
 ManDes71/ManDes71 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+J
