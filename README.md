@@ -10,7 +10,7 @@ je combine 15 ans d'expérience SQL avec une expertise de l'industrialisation de
 
 ---
 
-🏗️ Projets  
+🏗️ Projets 'fil rouge' datascience + MLOps   
   
 🚀 Industrialisation d'un système multimodal (85 000 produits) Pipeline MLOps complet intégrant l'entraînement asynchrone, le déploiement et le monitoring.  
 - Infrastructure : Docker, Docker-compose, AWS (EC2).  
