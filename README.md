@@ -16,7 +16,8 @@ je combine 15 ans d'expérience SQL avec une expertise de l'industrialisation de
 - Infrastructure : Docker, Docker-compose, AWS (EC2).  
 - Orchestration & Tracking : Apache Airflow, MLflow, DVC.  
 - Monitoring : Dashboard temps réel via Prometheus et Grafana avec détection de drift (Evidently AI).  
-- Serving : API FastAPI avec file d'attente Redis.  
+- Serving : API FastAPI avec file d'attente Redis.
+   
 🧪  Conception et modélisation IA (Précision 80%) Analyse et modélisation d'un catalogue de produits multimodaux (Textes + Images).  
 - NLP : Réseaux de neurones récurrents (LSTM) pour le texte.  
 - Computer Vision : Réseaux convolutifs (MobileNetV2, EfficientNetB1) pour les images.  
