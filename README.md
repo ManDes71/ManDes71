@@ -1,7 +1,7 @@
 # 👋 Bonjour, je suis @ManDes71
 
-- 👀 Passionné par la Data Science, le Deep Learning et désormais le MLOps
-- 📚 Actuellement en formation **MLOps** chez [DataScientest](https://datascientest.com/)
+- 👀 Passionné par la Data Science, le Deep Learning et le MLOps
+- 📚 Actuellement en formation **Data Product Manager** chez [DataScientest](https://datascientest.com/)
 
 ---
 
