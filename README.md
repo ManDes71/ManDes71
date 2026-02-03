@@ -5,11 +5,11 @@
 - [Blog](https://aventuresdata.com/blog/)
 
 
-Lead Data Engineer & Product Architect | MLOps & Cloud AWS | Expert SQL & Power BI
-Expert avec plus de 20 ans d'expérience en ingénierie logicielle, je combine une maîtrise historique du SQL (15+ ans) avec une expertise de pointe en industrialisation de l'IA (MLOps) et en Data Product Management.
-• 🚀 Spécialité : Mise en production de solutions IA (MLOps) et architecture Cloud AWS.
-• 📚 Certifications : Titres RNCP Niveau 7 en Data Science et MLOps . Actuellement en formation Data Product Manager.
-• ✍️ [Blog](https://aventuresdata.com/blog/) : Je partage mes recherches sur les architectures Python et le DevOps sur Aventures Data.
+Lead Data Engineer & Product Architect | MLOps & Cloud AWS | Expert SQL & Power BI  
+Expert avec plus de 20 ans d'expérience en ingénierie logicielle, je combine une maîtrise historique du SQL (15+ ans) avec une expertise de pointe en industrialisation de l'IA (MLOps) et en Data Product Management.  
+• 🚀 Spécialité : Mise en production de solutions IA (MLOps) et architecture Cloud AWS.  
+• 📚 Certifications : Titres RNCP Niveau 7 en Data Science et MLOps . Actuellement en formation Data Product Manager.  
+• ✍️ [Blog](https://aventuresdata.com/blog/) : Je partage mes recherches sur les architectures Python et le DevOps sur Aventures Data.  
 
 ---
 
