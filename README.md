@@ -10,7 +10,7 @@ je combine 15 ans d'expérience SQL avec une expertise de l'industrialisation de
 
 ---
 
-🏗️ Projets 'fil rouge' datascience + MLOps   
+🏗️ Projets 'fil rouge' datascience 🧪 et MLOps 🚀    
 
    
 🧪  Conception et modélisation IA (Précision 80%) Analyse et modélisation d'un catalogue de produits multimodaux (Textes + Images).  
