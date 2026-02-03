@@ -2,6 +2,7 @@
 
 - 👀 Passionné par la Data Science, le Deep Learning et le MLOps
 - 📚 Actuellement en formation **Data Product Manager** chez [DataScientest](https://datascientest.com/)
+- [Blog](https://aventuresdata.com/blog/)
 
 ---
 
