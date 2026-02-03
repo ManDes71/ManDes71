@@ -1,7 +1,7 @@
 # 👋 Bonjour, je suis @ManDes71
 
 - 👀 Passionné par la Data Science, le Deep Learning et le MLOps
-
+    
 Lead Data Engineer & Product Architect | MLOps & Cloud AWS | Expert SQL & Power BI  
 Expert avec plus de 20 ans d'expérience en ingénierie logicielle, je combine une maîtrise historique du SQL (15+ ans) avec une expertise de pointe en industrialisation de l'IA (MLOps) et en Data Product Management.  
 • 🚀 Spécialité : Mise en production de solutions IA (MLOps) et architecture Cloud AWS.  
