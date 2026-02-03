@@ -12,21 +12,35 @@ je combine 15 ans d'expérience SQL avec une expertise de l'industrialisation de
 
 🏗️ Projets  
 🚀 
-Industrialisation d'un système multimodal (85 000 produits) Pipeline MLOps complet intégrant l'entraînement asynchrone, le déploiement et le monitoring.
-• Infrastructure : Docker, Docker-compose, AWS (EC2, Fargate).
-• Orchestration & Tracking : Apache Airflow, MLflow, DVC.
-• Monitoring : Dashboard temps réel via Prometheus et Grafana avec détection de drift (Evidently AI).
-• Serving : API FastAPI avec file d'attente Redis.
+Industrialisation d'un système multimodal (85 000 produits) Pipeline MLOps complet intégrant l'entraînement asynchrone, le déploiement et le monitoring.  
+• Infrastructure : Docker, Docker-compose, AWS (EC2).  
+• Orchestration & Tracking : Apache Airflow, MLflow, DVC.  
+• Monitoring : Dashboard temps réel via Prometheus et Grafana avec détection de drift (Evidently AI).  
+• Serving : API FastAPI avec file d'attente Redis.  
 🧪 
-Conception et modélisation IA (Précision 80%) Analyse et modélisation d'un catalogue de produits multimodaux (Textes + Images).
-• NLP : Réseaux de neurones récurrents (LSTM) pour le texte.
-• Computer Vision : Réseaux convolutifs (MobileNetV2, EfficientNetB1) pour les images.
-• Visualisation : Exploration de données (Matplotlib, Seaborn) et démo interactive avec Streamlit.
-• Dépôts associés : Text Classification (ML), Text Classification (TensorFlow), Image Classification.
+Conception et modélisation IA (Précision 80%) Analyse et modélisation d'un catalogue de produits multimodaux (Textes + Images).  
+• NLP : Réseaux de neurones récurrents (LSTM) pour le texte.  
+• Computer Vision : Réseaux convolutifs (MobileNetV2, EfficientNetB1) pour les images.  
+• Visualisation : Exploration de données (Matplotlib, Seaborn) et démo interactive avec Streamlit.  
+• Dépôts associés : Text Classification (ML), Text Classification (TensorFlow), Image Classification.  
 
-Ce projet fil rouge développé lors de ma formation de Data Scientist chez DataScientest en formation continue en 2023 m'a permis d'appliquer une grande partie des enseignements acquis durant cette année 2023.  
-  J'ai mis en ligne la [Partie Machine Learning](https://github.com/ManDes71/Rakuten_Text_Classification_ML/blob/main/ReadMe.md) et la [Partie réseaux de neurones récurrents](https://github.com/ManDes71/Rakuten_Text_Classification_TensorFlow/blob/main/ReadMe.md) pour la partie texte et la [Partie réseaux de neuronnes convolutifs](https://github.com/ManDes71/Rakuten_Images_Classification_TensorFlow/blob/main/README.md) pour la partie classification par les images.  
-  La [Partie Streamlit](https://github.com/ManDes71/Rakuten_Presentation_Streamlit/blob/main/README.md) est visualisable en suivant ce [lien](http://streamlit.aventuresdata.com/rakuten/)
+
+--------------------------------------------------------------------------------
+🛠️ Expertises Techniques  
+Domaine  
+Technologies  
+Data Science  
+Python (Expert), Scikit-Learn, TensorFlow, Keras, PyTorch  
+MLOps & DevOps  
+Docker, Kubernetes, Airflow, MLflow, CI/CD (GitLab), DVC  
+Cloud & Infra  
+AWS (EC2, Fargate, ECR, Cloud Practitioner pr. 2026), Linux Bash  
+Data / BI  
+SQL (Expert, 15+ ans), Power BI, Qlik Sense, Postgresql  
+Product Management  
+Agile (Scrum/Kanban), Notion, Gouvernance (RGPD, AI Act)  
+
+
 
 <!---
 ManDes71/ManDes71 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
